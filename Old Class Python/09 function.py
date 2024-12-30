@@ -114,8 +114,8 @@ def find_palindrome(num):
         rev=rev*10+rem
         num=num//10
     if temp==rev:
-        print(f"this is palindrom")
+        print(f"this is palindrome")
     else:
-        print(f"this is not palindrom")
+        print(f"this is not palindrome")
 find_palindrome(n)
 
