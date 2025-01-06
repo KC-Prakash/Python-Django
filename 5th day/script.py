@@ -16,7 +16,7 @@ import pack1.module1 as usefuls
 
 usefuls.show_menu()
 
-# print(usefuls.PI)
+print(usefuls.PI)
 
 
 

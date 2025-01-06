@@ -9,9 +9,6 @@
 # result = friend("Prepare presentation for me")
 # print(friend("Prepare presentation for me"))
 
-
-
-
 # def add(num1, num2):
 #     print("alskdfjlks")
 #     #if condition:
